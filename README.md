@@ -1,2 +1,2 @@
 # LearningBoundless
-The back-end service of LearningBoundless by
+The back-end service of LearningBoundless used Spring Boot.
